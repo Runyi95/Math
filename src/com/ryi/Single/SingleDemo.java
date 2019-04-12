@@ -9,7 +9,8 @@ public class SingleDemo {
         SingleObject object = SingleObject.getInstance();
         object.showMessage();
 
-        //121545132541
+        //121545132541gfdgdf25245
+        //848412
         //13215445124511545125
 
     }

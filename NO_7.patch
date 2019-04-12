@@ -1,0 +1,16 @@
+Index: src/com/ryi/Single/SingleDemo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/ryi/Single/SingleDemo.java	(revision 1e14f9bb6f0b9322a04df6d3ef1bc5c32c97876d)
++++ src/com/ryi/Single/SingleDemo.java	(date 1555055173587)
+@@ -10,7 +10,7 @@
+         object.showMessage();
+ 
+         //121545132541
+-        //13215445124511
++        //13215445124511545125
+ 
+     }
+ }
